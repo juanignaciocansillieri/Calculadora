@@ -38,6 +38,9 @@
     background-image: -webkit-linear-gradient(top, #2f2f2f 0%, #363636 100%);
     background-image: linear-gradient(top, #2f2f2f 0%, #363636 100%);
 }
+.boton:first-child{
+    margin :0;
+}
 
 .cointainer-hijo {
     background: #232323;
